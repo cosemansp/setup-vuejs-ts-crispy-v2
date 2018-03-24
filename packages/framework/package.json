@@ -1,0 +1,12 @@
+{
+  "name": "setup-vuejs-ts-crispy-lib",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^22.0.1",
+    "ts-jest": "^22.0.1"
+  },
+  "browserslist": ["> 1%", "last 2 versions", "not ie <= 8"]
+}

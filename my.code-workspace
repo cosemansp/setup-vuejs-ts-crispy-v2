@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "packages/framework"
+    },
+    {
+      "path": "packages/app"
+    },
+  ],
+  "settings": {
+    "editor.tokenColorCustomizations": {}
+  }
+}

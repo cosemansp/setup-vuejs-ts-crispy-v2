@@ -1,0 +1,20 @@
+{
+  "name": "setup-vuejs-crispy-v2",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "postinstall": "npm run bootstrap",
+    "cleanup": "lerna run cleanup",
+    "publish:all": "lerna publish --skip-git",
+    "lint": "lerna run lint",
+    "commitmsg": "commitlint -e $GIT_PARAMS"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^6.1.0",
+    "husky": "^0.14.3",
+    "lerna": "^2.4.0"
+  }
+}
