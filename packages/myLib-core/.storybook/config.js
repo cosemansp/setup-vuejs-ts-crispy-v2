@@ -5,7 +5,7 @@ import Vue from 'vue';
 
 setOptions({
   name: 'myLib-core',
-  url: 'https://github.com/storybooks/storybook/tree/master/addons/options',
+  url: 'https://github.com/cosemansp/setup-vuejs-ts-crispy-v2',
   goFullScreen: false,
   showLeftPanel: true,
   showDownPanel: true,

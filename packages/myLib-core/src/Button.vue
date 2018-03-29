@@ -1,6 +1,7 @@
 <template>
   <button class="button" :style="{color: color, borderColor: color}" @click="onClick" :class="{rounded: rounded}">
-    <slot></slot>!</button>
+    <slot></slot>
+  </button>
 </template>
 
 <script lang="ts">
@@ -17,6 +18,7 @@ export default Vue.extend({
       this.$emit('clicked', event);
     },
   },
+  name: 'Button',
 });
 </script>
 
