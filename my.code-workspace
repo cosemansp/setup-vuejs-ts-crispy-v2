@@ -4,11 +4,11 @@
       "path": "."
     },
     {
-      "path": "packages/framework"
+      "path": "packages/myLib-core"
     },
     {
       "path": "packages/app"
-    },
+    }
   ],
   "settings": {
     "editor.tokenColorCustomizations": {}
