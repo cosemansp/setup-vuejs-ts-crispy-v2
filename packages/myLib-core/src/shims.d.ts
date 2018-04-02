@@ -1,5 +1,5 @@
 declare module '*.vue' {
-  import Vue from 'vue';
+  import vue from 'vue';
   export default Vue;
 }
 
@@ -11,3 +11,5 @@ declare module '*.json' {
 interface Window {
   Vue: any;
 }
+
+declare module '@storybook/addon-centered';

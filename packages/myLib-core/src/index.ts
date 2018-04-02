@@ -1,16 +1,16 @@
-import FooBar from './FooBar.vue';
-import Button from './Button.vue';
+import FooBar from './components/FooBar.vue';
+import Button from './components/Button.vue';
 
 // export * from './myClass';
 // export * from './services/userService';
 
 const myLib: any = {
   FooBar,
-  Button
+  Button,
 };
 
 // tslint:disable-next-line
-myLib.install = function (Vue: any) {
+myLib.install = function(Vue: any) {
   // Install the components
   Object.keys(myLib).forEach(key => {
     if (key === 'install' || key === 'version') {

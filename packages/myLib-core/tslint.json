@@ -1,17 +1,8 @@
 {
-  "extends": [
-    "tslint-config-airbnb",
-    "tslint-config-prettier"
-  ],
+  "extends": ["tslint-config-airbnb", "tslint-config-prettier", "./tslint.js"],
   "rules": {
-    "variable-name": [
-      false
-    ],
-    "import-name": [
-      true,
-      {
-        "*.vue": "*"
-      }
-    ]
+    "variable-name": [false],
+    "import-name": [false],
+    "no-boolean-literal-compare": false
   }
 }

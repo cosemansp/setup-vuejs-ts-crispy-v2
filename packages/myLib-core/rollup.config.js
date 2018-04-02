@@ -62,7 +62,7 @@ function genConfig(name) {
         extensions: [".ts", ".json", ".vue"]
       }),
       commonjs(),
-      typescript(),
+      typescript({ cacheRoot: `.tmp/rpt2_cache` }),
       vue({ compileTemplate: true, css: true }),
       json(),
     ].concat(opts.plugins || []),

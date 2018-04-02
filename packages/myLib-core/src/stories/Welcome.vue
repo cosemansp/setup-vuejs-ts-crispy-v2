@@ -43,7 +43,52 @@
 </template>
 
 <script lan="ts">
-import Vue from 'vue';
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+import vue from 'vue';
 export default Vue.extend({
   props: {
     goToButton: {

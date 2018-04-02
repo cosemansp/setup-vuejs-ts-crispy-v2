@@ -2,12 +2,19 @@
   "compilerOptions": {
     "target": "es2015",
     "module": "es2015",
-    "strict": true,
+    "strict": false,
     "jsx": "preserve",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
     "sourceMap": true,
+    "experimentalDecorators": true,
     "baseUrl": ".",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015",
+    ],
     "types": [
       "node",
       "jest"
@@ -21,7 +28,6 @@
   "include": [
     "src/**/*.ts",
     "src/**/*.vue",
-    "tests/**/*.ts"
   ],
   "exclude": [
     "node_modules"
