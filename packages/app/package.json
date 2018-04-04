@@ -13,18 +13,16 @@
     "cleanup": "rimraf ./dist"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "bootstrap": "3.3.7",
     "loglevel": "^1.6.1",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.13",
-    "vue-property-decorator": "^6.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
-    "@types/axios": "^0.14.0",
-    "@types/axios-mock-adapter": "^1.10.0",
     "@types/jest": "^22.0.1",
     "@types/loglevel": "^1.5.3",
     "@vue/cli-plugin-babel": "^3.0.0-beta.6",
@@ -34,7 +32,7 @@
     "@vue/cli-service": "^3.0.0-beta.6",
     "@vue/test-utils": "^1.0.0-beta.10",
     "axios-mock-adapter": "^1.14.1",
-    "babel-core": "^7.0.0-0",
+    "babel-core": "^6.25.0",
     "intl": "^1.2.5",
     "jest": "^22.4.3",
     "luxon": "^1.0.0",
