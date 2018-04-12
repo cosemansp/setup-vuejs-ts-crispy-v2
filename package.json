@@ -50,6 +50,7 @@
     "eslint-plugin-typescript": "^0.11.0",
     "eslint-plugin-vue": "^4.4.0",
     "husky": "^0.14.3",
+    "imagemin-lint-staged": "^0.3.0",
     "intl": "^1.2.5",
     "jest": "^22.4.3",
     "lint-staged": "^7.0.4",

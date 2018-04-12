@@ -48,8 +48,8 @@ MIT
 
 ## References
 
-* https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f
-* https://matthiashager.com/complete-vuejs-application-tutorial/project-structure/
-* https://forum.vuejs.org/t/structuring-very-large-applications/840/3
-* https://github.com/chrisvfritz/vue-enterprise-boilerplate
-* https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md
+* [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+* [complete-vuejs-application-tutorial/structure](https://matthiashager.com/complete-vuejs-application-tutorial/project-structure/)
+* [structuring-very-large-applications](https://forum.vuejs.org/t/structuring-very-large-applications/840/3)
+* [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+* [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md)

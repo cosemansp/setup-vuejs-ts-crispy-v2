@@ -61,7 +61,7 @@ export default class Button extends Vue {
 </script>
 ```
 
-## Component & props decorator.
+## Component & props decorator
 
 See [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
 
@@ -151,5 +151,4 @@ describe('Hello Component', () => {
 });
 ```
 
-See also:
-https://github.com/ktsn/vuetype
+See also [vueType](https://github.com/ktsn/vuetype)
