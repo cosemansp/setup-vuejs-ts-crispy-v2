@@ -1,6 +1,6 @@
 # setup-vuejs-ts-crispy-v2
 
-Sample setup of VueJS with library & application with some good practices
+Vue.js sample app in Typescript some good practices on logging, axias, etc
 
 > THIS IS WORK IN PROGRESS
 
@@ -14,65 +14,42 @@ yarn
 
 ## Features
 
-Common
-
 * [x] Full Typescript Support
 * [x] Formatting with Prettier
 * [x] Linting with TSlint and airbnb config
 * [x] Unit testing with Jest
+* [ ] Add vscode-jest
+* [ ] Add eslint with vuejs & typescript integration
 * [ ] Add more documentation
-
-Library
-
-* [x] Build & bundle with Rollup (commonjs, es6 and umd)
-* [x] Interactive UI component dev & test with Storybook
-* [ ] Add more unit test samples
-* [ ] Add more usefull and re-usable utilities
-* [ ] upgrade Storybook to 3.4 release version
-
-Application
-
 * [ ] Add more unit test samples
 * [ ] Add bootstrap
 * [ ] Build sample app
 
-## Packages
-
-### myLib-core
-
-Vue.js sample library in Typescript with Jest unit testing and Storybook development environment
-
-### app
-
-Vue.js sample app in Typescript some good practices on logging, axias, etc
-
 ## VueJS support for VSCode
 
-Install the following plugins:
+Add [Vetur](https://github.com/vuejs/vetur) for syntax-highlighting, emmet, formatting, etc.
 
-* [Vetur](https://github.com/vuejs/vetur) for syntax-highlighting, emmet, formatting, etc.
+More usefull extensions can be found as recommended extensions.
 
-* [TSLint Vue](https://marketplace.visualstudio.com/items?itemName=prograhammer.tslint-vue) for linting your .vue files.
+## Linting
 
-To enable typeCheck
+Linting checks the following:
 
-```json
-// .vscode/settings.json
-{
-  // ...
-  "tslint.typeCheck": true
-  // ...
-}
+* Airbnb style guide (https://github.com/airbnb/javascript)
+* T.B.D
+
+```bash
+npm run lint
 ```
-
-Install the latest typescript on vetur
-https://github.com/vuejs/vetur/issues/682
-
-1.  in console go to ~/.vscode/extensions/octref.vetur-0.11.7
-2.  run there yarn upgrade typescript@latest
-3.  change directory to .\server
-4.  run again yarn upgrade typescript@latest
 
 ## License
 
 MIT
+
+## References
+
+* https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f
+* https://matthiashager.com/complete-vuejs-application-tutorial/project-structure/
+* https://forum.vuejs.org/t/structuring-very-large-applications/840/3
+* https://github.com/chrisvfritz/vue-enterprise-boilerplate
+* https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md

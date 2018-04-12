@@ -1,5 +1,35 @@
 {
   "compilerOptions": {
-    "experimentalDecorators": true
-  }
+    "target": "es2015",
+    "module": "es2015",
+    "strict": false,
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": false,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015",
+    ],
+    "types": [
+      "node",
+      "jest"
+    ],
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue",
+  ],
+  "exclude": [
+    "node_modules"
+  ]
 }

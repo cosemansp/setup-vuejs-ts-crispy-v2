@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`Button.vue default render 1`] = `<button class="button" style="color: rgb(66, 185, 131); border-color: #42b983;"></button>`;
-
-exports[`Button.vue renders props.color when passed 1`] = `<button class="button" style="color: rgb(255, 0, 0); border-color: #ff0000;"></button>`;
-
-exports[`Button.vue renders props.rounded when passed 1`] = `<button class="button rounded" style="color: rgb(66, 185, 131); border-color: #42b983;"></button>`;
