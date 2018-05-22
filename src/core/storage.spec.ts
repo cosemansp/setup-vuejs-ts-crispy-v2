@@ -2,7 +2,7 @@ import { Storage } from './storage';
 
 interface ITest {
   id: number;
-  name: string;
+  name: string; // eslint-disable-line
 }
 
 describe('Storage', () => {

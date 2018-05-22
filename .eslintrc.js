@@ -1,22 +1,15 @@
 module.exports = {
-  parser: 'vue-eslint-parser',
-  parserOptions: {
-    parser: 'typescript-eslint-parser',
+  root: true,
+  env: {
+    node: true,
   },
-  settings: {
-    'import/resolver': {
-      node: {
-        extensions: ['.js', '.jsx', '.ts'],
-      },
-    },
-  },
-  extends: ['airbnb-base', 'typescript', 'prettier'],
+  extends: [
+    'plugin:vue/essential',
+    '@vue/airbnb',
+    '@vue/typescript',
+    'prettier',
+  ],
   rules: {
-    'typescript/interface-name-prefix': false,
-    'typescript/explicit-member-accessibility': false,
-    'import/extensions': false,
-    'require-jsdoc': [0],
-
     // only allowed in development
     'no-console': process.env.NODE_ENV === 'production' ? 2 : 0,
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,

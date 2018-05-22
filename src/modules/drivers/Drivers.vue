@@ -5,12 +5,15 @@
         <th colspan="4">
           <h3 class="list-title">F1 Feeder - Drivers Championship Standings</h3>
           <br/>
-          <input class="form-control" type="text" v-model="nameFilter" placeholder="Search..." />
+          <input class="form-control"
+                 type="text"
+                 v-model="nameFilter"
+                 placeholder="Search..." />
         </th>
       </tr>
     </thead>
     <tbody ui-sortable>
-      <tr v-for="(driver, index) of filteredDrivers">
+      <tr v-for="(driver, index) of filteredDrivers" v-bind:key="driver.Driver.driverId">
         <td>{{index + 1}}</td>
         <td>
           <img :src="`/img/flags/${driver.Driver.nationality}.png`" />
@@ -45,13 +48,12 @@ export default class Drivers extends Vue {
 
   get filteredDrivers() {
     const re = new RegExp(this.nameFilter, 'i');
-    return this.driversList.filter((driver: any) => {
-      return (
+    return this.driversList.filter(
+      (driver: any) =>
         !this.nameFilter ||
         re.test(driver.Driver.givenName) ||
-        re.test(driver.Driver.familyName)
-      );
-    });
+        re.test(driver.Driver.familyName),
+    );
   }
 }
 </script>

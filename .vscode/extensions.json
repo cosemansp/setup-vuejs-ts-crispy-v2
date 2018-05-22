@@ -20,8 +20,6 @@
     "christian-kohler.npm-intellisense",
     // path intellisense
     "christian-kohler.path-intellisense",
-    // CodeMetrics
-    "kisstkondoros.vscode-codemetrics",
     // Color Hightlight
     "naumovs.color-highlight",
     // Git Blame

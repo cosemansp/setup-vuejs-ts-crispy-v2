@@ -29,10 +29,6 @@ export default class DriverOverview extends Vue {
   driver = null;
   races: any = [];
 
-  constructor() {
-    super();
-  }
-
   mounted() {
     log.info('loading driverDetails', this.id);
     apiService.getDriverDetails(this.id).then(driver => {

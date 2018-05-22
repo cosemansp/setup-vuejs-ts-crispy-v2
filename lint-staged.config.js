@@ -1,6 +1,6 @@
 module.exports = {
   '*.ts': [
-    'eslint --fix',
+    'vue-cli-service lint --fix',
     'prettier --write',
     'git add',
     'yarn test --bail --findRelatedTests',
@@ -8,8 +8,8 @@ module.exports = {
   '*.js': ['prettier --write', 'git add'],
   '*.json': ['prettier --write', 'git add'],
   '*.vue': [
-    // 'eslint --fix',
-    // 'stylelint --fix',
+    'vue-cli-service lint --fix',
+    'stylelint --fix',
     'prettier --write',
     'git add',
     'yarn test --bail --findRelatedTests',

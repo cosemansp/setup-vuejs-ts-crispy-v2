@@ -18,12 +18,15 @@ yarn
 * [x] Formatting with Prettier
 * [x] Linting with TSlint and airbnb config
 * [x] Unit testing with Jest
-* [ ] Add vscode-jest
-* [ ] Add eslint with vuejs & typescript integration
+* [x] Add vscode-jest
+* [x] Add eslint with vuejs & typescript integration
+* [x] Add bootstrap
+* [x] Build sample app
+* [x] Upgrade to @vue/cli 3.0.0-beta.11 & webpack 4.x
 * [ ] Add more documentation
 * [ ] Add more unit test samples
-* [ ] Add bootstrap
-* [ ] Build sample app
+* [ ] Add nprogress
+* [ ] Add vue-meta
 
 ## VueJS support for VSCode
 
@@ -36,10 +39,20 @@ More usefull extensions can be found as recommended extensions.
 Linting checks the following:
 
 * Airbnb style guide (https://github.com/airbnb/javascript)
-* T.B.D
+* And typescript rules
+* And disable prettier rules
+* And style with stylelint
 
 ```bash
 npm run lint
+```
+
+Using [lint-staged](https://github.com/okonet/lint-staged) we run linters against staged git files and don't let 💩 slip into your code base!
+
+To test wihout commiting any files.
+
+```bash
+npx lint-staged
 ```
 
 ## License

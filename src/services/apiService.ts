@@ -33,7 +33,7 @@ export interface IDriverStanding {
     {
       constructorId: string;
       url: string;
-      name: string;
+      name: string; // eslint-disable-line
       nationality: string;
     }
   ];
@@ -41,19 +41,23 @@ export interface IDriverStanding {
 
 export default {
   getDrivers(): Promise<IDriverStanding[]> {
-    return api.get('driverStandings.json').then(res => {
-      return res.data.MRData.StandingsTable.StandingsLists[0].DriverStandings;
-    });
+    return api
+      .get('driverStandings.json')
+      .then(
+        res => res.data.MRData.StandingsTable.StandingsLists[0].DriverStandings,
+      );
   },
   getDriverDetails(id: string): Promise<IStandingList> {
-    return api.get(`drivers/${id}/driverStandings.json`).then(res => {
-      return res.data.MRData.StandingsTable.StandingsLists[0]
-        .DriverStandings[0];
-    });
+    return api
+      .get(`drivers/${id}/driverStandings.json`)
+      .then(
+        res =>
+          res.data.MRData.StandingsTable.StandingsLists[0].DriverStandings[0],
+      );
   },
   getDriverRaces(id: string): Promise<any[]> {
-    return api.get(`drivers/${id}/results.json`).then(res => {
-      return res.data.MRData.RaceTable.Races;
-    });
+    return api
+      .get(`drivers/${id}/results.json`)
+      .then(res => res.data.MRData.RaceTable.Races);
   },
 };

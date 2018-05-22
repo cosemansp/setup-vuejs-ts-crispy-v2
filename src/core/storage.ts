@@ -59,7 +59,7 @@ export class Storage {
   }
 
   private getPrefixedKey(key: string, options?: Options) {
-    // tslint:disable-next-line
+    // eslint-disable-next-line
     options = options || { noPrefix: false };
     if (options.noPrefix) {
       return key;
