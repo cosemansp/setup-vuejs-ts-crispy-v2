@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: Drivers.vue:44
+msgid "message.hello"
+msgstr ""
+
+#: App.vue:3
+msgid "TEST3"
+msgstr ""

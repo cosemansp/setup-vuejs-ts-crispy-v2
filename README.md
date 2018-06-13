@@ -25,7 +25,7 @@ yarn
 - [x] Upgrade to @vue/cli 3.0.0-beta.16 & webpack 4.x
 - [x] Add Webpack Bundle Analysis
 - [x] Add vue-i18n
-- [x] Add i18n workflow (extract, translate, build)
+- [x] Add i18n workflow (extract, translate, build, pseudo)
 - [ ] Add more documentation
 - [ ] Add more unit test samples
 - [ ] Add nprogress
@@ -69,3 +69,9 @@ MIT
 - [structuring-very-large-applications](https://forum.vuejs.org/t/structuring-very-large-applications/840/3)
 - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
 - [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md)
+
+## W.I.P
+
+- https://github.com/parachvte/vue-i18n-xgettext
+- https://github.com/springboardVR/extract-vue-i18n
+- https://github.com/lukasgeiter/gettext-extractor

@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "404"
+msgstr ""
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Activity"
+msgstr "Activiteit"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Add after"
+msgstr "Toevoegen achter"
+
+msgid "Add before"
+msgstr "Toevoegen voor"
+
+msgid "Add supplier"
+msgstr "Voeg leverancier toe"
+
+msgid "Approve"
+msgstr "Goedkeuren"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Are you sure to delete one (or more) selected operations?"
+msgstr "Bent u zeker dat u de geselecteerde operaties wil verwijderen?"
+
+msgid "Are you sure to delete one (or more) selected resource categories?"
+msgstr "Bent u zeker dat u de geselecteerde categorieën wil verwijderen?"
+
+#, fuzzy
+#| msgid "Are you sure to delete one (or more) selected resources?"
+msgid "Are you sure to delete one (or more) selected resources"
+msgstr "Bent u zeker dat u de geselecteerde middelen wil verwijderen?"
+
+msgid "Are you sure to delete one (or more) selected resources?"
+msgstr "Bent u zeker dat u de geselecteerde middelen wil verwijderen?"
+
+msgid "Are you sure to delete one (or more) selected {{pluralEntityName}}?"
+msgstr "Bent u zeker dat u de geselecteerde {{pluralEntityName}} wilt verwijderen?"
+
+msgid "Are you sure to delete this operation?"
+msgstr "Bent u zeker dat u deze operatie wil verwijderen?"
+
+msgid "Are you sure to delete this resource?"
+msgstr "Bent u zeker dat u dit middel wil verwijderen?"
+
+msgid "Are you sure to delete this {value}?"
+msgstr "Bent u zeker dat u {{value}} wil verwijderen?"
+
+msgid "Are you sure to discard your changes?"
+msgstr "Bent u zeker dat u de wijzigingen ongedaan wil maken?"
+
+msgid "Are you sure you want to delete the selected line(s)?"
+msgstr "Bent u zeker dat u de geselecteerde lijnen wilt verwijderen?"
+
+msgid "Are you sure you want to delete?"
+msgstr "Bent u zeker dat u wilt verwijderen?"
+
+msgid "Are you sure you want to unlink the selected supplier(s)?"
+msgstr "Bent u zeker dat u de geselecteerde leveranciers wil verwijderen?"
+
+msgid "Are you sure you want to unlink the selected supplier?"
+msgstr "Bent u zeker dat u de geselecteerde leverancier wil verwijderen?"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "Augustus"
+
+msgid "Between"
+msgstr "Tussen"
+
+msgid "Bruto"
+msgstr "Bruto"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Categorie"
+msgstr "Categorie"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Category Code"
+msgstr "Categoriecode"
+
+msgid "Change mode"
+msgstr "Wissel mode"
+
+msgid "Changeable"
+msgstr "Wijzigbaar"
+
+msgid "City"
+msgstr "Gemeente"
+
+msgid "Clear"
+msgstr "Leegmaken"
+
+msgid "Click here to reload the data"
+msgstr "Klik hier om de data opnieuw te laden"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Comment"
+msgstr "Commentaar"
+
+msgid "Comments"
+msgstr "Commentaar"
+
+msgid "Composition"
+msgstr "Samenstelling"
+
+msgid ""
+"Concurrency Error: You are trying to update a resource that has already been "
+"modified by another user."
+msgstr "Deze gegevens werden reeds door een andere gebruiker aangepast."
+
+msgid "Confirm delete"
+msgstr "Bevestig verwijderen"
+
+msgid "Constant"
+msgstr "Constante"
+
+msgid "Contains"
+msgstr "Bevat"
+
+msgid "Copy"
+msgstr "Kopiëer"
+
+msgid "Create"
+msgstr "Aanmaken"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "December"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete Confirmation"
+msgstr "Bevestig verwijderen"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Discard"
+msgstr "Negeren"
+
+msgid "Discard Confirmation"
+msgstr "Bevestig ongedaan maken"
+
+msgid "Discount"
+msgstr "Korting"
+
+msgid "Dutch"
+msgstr "Nederlands"
+
+msgid "Edit"
+msgstr "Wijzig"
+
+msgid "English"
+msgstr "Engels"
+
+msgid "Equals"
+msgstr "Gelijk"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Error Notification"
+msgstr "Fout notificatie"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "Februari"
+
+msgid "Form invalid"
+msgstr "Formulier ongeldig"
+
+msgid "Formula"
+msgstr "Formule"
+
+msgid "Fr"
+msgstr "Vr"
+
+msgid "French"
+msgstr "Frans"
+
+msgid "Fri"
+msgstr "Vrij"
+
+msgid "Friday"
+msgstr "Vrijdag"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "German"
+msgstr "Duits"
+
+msgid "Global"
+msgstr "Globaal"
+
+msgid "Greater than"
+msgstr "Groter dan"
+
+msgid "Greater than or equals"
+msgstr "Meer dan of gelijk aan"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Items selected:"
+msgstr "Geselecteerde items:"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "Januari"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Less than"
+msgstr "Minder dan"
+
+msgid "Less than or equals"
+msgstr "Minder dan of gelijk aan"
+
+msgid "Libraries"
+msgstr "Bibliotheken"
+
+msgid "Link suppliers"
+msgstr "Koppel leveranciers"
+
+msgid "Loading..."
+msgstr "Laden..."
+
+msgid "Mar"
+msgstr "Mrt"
+
+msgid "March"
+msgstr "Maart"
+
+msgid "May"
+msgstr "Mei"
+
+msgid "Mo"
+msgstr "Ma"
+
+msgid "Mon"
+msgstr "Ma"
+
+msgid "Monday"
+msgstr "Maandag"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No records found"
+msgstr "Geen gegevens gevonden"
+
+msgid "Norm"
+msgstr "Norm"
+
+msgid "Norm Type"
+msgstr "Normtype"
+
+msgid "Not Equals"
+msgstr "Niet gelijk"
+
+msgid "Not contains"
+msgstr "Bevat niet"
+
+msgid "Not equals"
+msgstr "Niet gelijk"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "Number of items selected:"
+msgstr "Geselecteerde items:"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Oops, something went wrong"
+msgstr "Oeps, er is iets mis gegaan"
+
+msgid "Oops, something went wrong."
+msgstr "Oeps, er is iets mis gegaan."
+
+msgid "Open Sidepanel"
+msgstr "Open zij-paneel"
+
+msgid "Operation"
+msgstr "Operatie"
+
+msgid "Operation Deleted"
+msgstr "Operatie verwijderd"
+
+msgid "Operations"
+msgstr "Operaties"
+
+msgid "Other"
+msgstr "Andere"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Production"
+msgstr "Productie"
+
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+msgid "Remove"
+msgstr "Verwijder"
+
+msgid "Remove selection"
+msgstr "Verwijder selectie"
+
+msgid "Remove supplier"
+msgstr "Verwijder leverancier"
+
+msgid "Resource"
+msgstr "Middel"
+
+msgid "Resource Categories"
+msgstr "Middelcategorie"
+
+msgid "Resource Category"
+msgstr "Middelcategorie"
+
+msgid "Resource Deleted"
+msgstr "Middel verwijderd"
+
+msgid "Resource Detail"
+msgstr "Middel Detail"
+
+msgid "Resources"
+msgstr "Middelen"
+
+msgid "Resources auto width"
+msgstr "Middelen automatische breedte"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Revert"
+msgstr "Ongedaan maken"
+
+msgid "Sa"
+msgstr "Za"
+
+msgid "Sat"
+msgstr "Zat"
+
+msgid "Saturday"
+msgstr "Zaterdag"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save Confirmation"
+msgstr "Bevestig opslaan"
+
+msgid "Search..."
+msgstr "Zoeken…"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Sep"
+msgstr "Sept"
+
+msgid "September"
+msgstr "September"
+
+msgid "Sorting"
+msgstr "Sorteren"
+
+msgid "Starts with"
+msgstr "Start met"
+
+msgid "Su"
+msgstr "Zo"
+
+msgid "Sun"
+msgstr "Zo"
+
+msgid "Sunday"
+msgstr "Zondag"
+
+msgid "Supplier Count"
+msgstr "Aantal leveranciers"
+
+msgid "Suppliers"
+msgstr "Leveranciers"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Th"
+msgstr "Do"
+
+msgid "The data you requested can not be loaded."
+msgstr "De opgevraagde data kan niet geladen worden."
+
+msgid "The value in this field can not be larger then {max}."
+msgstr "De waarde in dit veld kan niet hoger zijn dan {max}."
+
+msgid "The value in this field must be at least {min}."
+msgstr "De waard een dit veld kan niet lager zijn dan {min}."
+
+msgid "There are one or more invalid fields in this composition."
+msgstr "Er zijn 1 of meerdere fouten in deze compositie."
+
+msgid "There are one or more invalid fields on your form."
+msgstr "Niet mogelijk om verder te gaan, er zijn één of meerdere foutieve velden."
+
+msgid ""
+"There is already a resource with this code in combination with the category."
+msgstr "Er is al een middel met deze code in combinatie met de categorie."
+
+msgid "There is no connection with the server."
+msgstr "Er is geen verbinding met de server."
+
+msgid "This combination is already in use"
+msgstr "Deze combinatie is al in gebruik"
+
+msgid "This combination is already in use."
+msgstr "Deze combinatie is al in gebruik."
+
+msgid "This field has a maximum of {requiredLength} characters."
+msgstr "Dit veld heeft een maximum van {requiredLength}  karakters."
+
+msgid "This field is required."
+msgstr "Dit veld is verplicht."
+
+msgid "This operation is already deleted"
+msgstr "Deze operatie is al verwijderd"
+
+msgid "This resource is already deleted"
+msgstr "Dit middel is al verwijderd"
+
+msgid "This {0} is already deleted"
+msgstr "Deze {0} is reeds verwijderd"
+
+msgid "Thu"
+msgstr "Don"
+
+msgid "Thursday"
+msgstr "Donderdag"
+
+msgid "Today"
+msgstr "Vandaag"
+
+msgid "Total Cost"
+msgstr "Totaalkost"
+
+msgid "Total operations:"
+msgstr "Aantal operaties:"
+
+msgid "Total resource categories:"
+msgstr "Aantal middelcategorieën:"
+
+msgid "Total resources:"
+msgstr "Aantal middelen:"
+
+msgid "Translations"
+msgstr "Vertalingen"
+
+msgid "Tu"
+msgstr "Di"
+
+msgid "Tue"
+msgstr "Di"
+
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unable to continue, there are one or more invalid fields on your form."
+msgstr "Niet mogelijk om verder te gaan, er zijn één of meerdere foutieve velden."
+
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+msgid "Unit"
+msgstr "Eenheid"
+
+msgid "Unit Cost"
+msgstr "Eenheidskost"
+
+msgid "Unit Cost Date"
+msgstr "Datum Eenheidskost"
+
+msgid "VAT Number"
+msgstr "BTW Nummer"
+
+msgid "View"
+msgstr "Bekijk"
+
+msgid "We"
+msgstr "Wo"
+
+msgid "Wed"
+msgstr "Woe"
+
+msgid "Wednesday"
+msgstr "Woensdag"
+
+msgid "Yield"
+msgstr "Rendement"
+
+msgid "You have unsaved changes."
+msgstr "Er zijn wijzigingen."
+
+msgid "You have unsaved changes. Do you want to save or discard them?"
+msgstr "Er zijn wijzigingen. Wilt u opslaan of wijzigingen ongedaan maken?"
+
+msgid "Your data is invalid. Do you want to discard the changes or keep editing?"
+msgstr "De data is ongeldig. Wil je de wijzigingen afdanken of verder bewerken?"
+
+msgid "Your form is invalid. Do you want to discard the changes or keep editing?"
+msgstr ""
+"Dit formulier is ongeldig. Wil je de wijzigingen afdanken of verder bewerken?"
+
+msgid "and"
+msgstr "en"
+
+msgid "arrow-down"
+msgstr "pijl-beneden"
+
+msgid "arrow-left"
+msgstr "pijl-links"
+
+msgid "arrow-right"
+msgstr "pijl-rechts"
+
+msgid "arrow-up"
+msgstr "pijl-omhoog"
+
+msgid "characters"
+msgstr "karakters"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "latest changes are not saved."
+msgstr "laatste wijzigingen zijn niet opgeslagen."
+
+msgid "no"
+msgstr "nee"
+
+msgid "space"
+msgstr "spatie"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "{0} deleted"
+msgstr "{0} verwijderd"
+
+msgid "{{col.header}}"
+msgstr "{{col.header}}"
+
+#~ msgid "VatNumber"
+#~ msgstr "BTW Nummer"
+
+#, fuzzy
+#~| msgid "Yield"
+#~ msgid "Yield-nl"
+#~ msgstr "Rendement"
+
+#~ msgid "The value in this field can not be larger then"
+#~ msgstr "De waarde in dit veld kan niet hoger zijn dan"
+
+#~ msgid "The value in this field can not be larger then {max}"
+#~ msgstr "De waarde in dit veld kan niet hoger zijn dan {max}"
+
+#~ msgid "The value in this field must be at least"
+#~ msgstr "De waard een dit veld kan niet lager zijn dan"
+
+#~ msgid "The value in this field must be at least {min}"
+#~ msgstr "De waard een dit veld kan niet lager zijn dan {min}"
+
+#~ msgid "There is already a resource with this code"
+#~ msgstr "Er is al een middel met deze code"
+
+#~ msgid "This field has a maximum of"
+#~ msgstr "Dit veld heeft een maximum van"
+
+#~ msgid "This field has a minimum of"
+#~ msgstr "Dit veld heeft een minimum van"
+
+#~ msgid "Unit cost date"
+#~ msgstr "Datum Eenheidskost"
+
+#~ msgid "You have unsaved changes. "
+#~ msgstr "Er zijn wijzigingen. "
+
+#~ msgid "down"
+#~ msgstr "pijl-beneden"
+
+#~ msgid "left"
+#~ msgstr "pijl-links"
+
+#~ msgid "up"
+#~ msgstr "pijl-omhoog"
+
+#~ msgid "You have unsaved changed. Do you want to save or discard them?"
+#~ msgstr "Er zijn wijzigingen. Wilt u opslaan of wijzigingen ongedaan maken?"

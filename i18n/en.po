@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "404"
+msgstr "404"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add after"
+msgstr "Add after"
+
+msgid "Add before"
+msgstr "Add before"
+
+msgid "Add supplier"
+msgstr "Add suppliers"
+
+msgid "Approve"
+msgstr "Approve"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Are you sure to delete one (or more) selected operations?"
+msgstr "Are you sure to delete one (or more) selected operations?"
+
+msgid "Are you sure to delete one (or more) selected resource categories?"
+msgstr "Are you sure to delete one (or more) selected resource categories?"
+
+#, fuzzy
+#| msgid "Are you sure to delete one (or more) selected resources?"
+msgid "Are you sure to delete one (or more) selected resources"
+msgstr "Are you sure to delete one (or more) selected resources?"
+
+msgid "Are you sure to delete one (or more) selected resources?"
+msgstr "Are you sure to delete one (or more) selected resources?"
+
+msgid "Are you sure to delete one (or more) selected {{pluralEntityName}}?"
+msgstr "Are you sure to delete one (or more) selected {{pluralEntityName}}?"
+
+msgid "Are you sure to delete this operation?"
+msgstr "Are you sure to delete this operation?"
+
+msgid "Are you sure to delete this resource?"
+msgstr "Are you sure to delete this resource?"
+
+msgid "Are you sure to delete this {value}?"
+msgstr "Are you sure to delete this {value}?"
+
+msgid "Are you sure to discard your changes?"
+msgstr "Are you sure to discard your changes?"
+
+msgid "Are you sure you want to delete the selected line(s)?"
+msgstr "Are you sure you want to delete the selected line(s)?"
+
+msgid "Are you sure you want to delete?"
+msgstr "Are you sure to delete?"
+
+msgid "Are you sure you want to unlink the selected supplier(s)?"
+msgstr "Are you sure you want to unlink the selected supplier(s)?"
+
+msgid "Are you sure you want to unlink the selected supplier?"
+msgstr "Are you sure you want to unlink the selected supplier?"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "August"
+
+msgid "Between"
+msgstr "Between"
+
+msgid "Bruto"
+msgstr "Bruto"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Categorie"
+msgstr "Categorie"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Category Code"
+msgstr "Category Code"
+
+msgid "Change mode"
+msgstr "Change mode"
+
+msgid "Changeable"
+msgstr "Changeable"
+
+msgid "City"
+msgstr "City"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Click here to reload the data"
+msgstr "Click here to reload the data"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "Composition"
+msgstr "Composition"
+
+msgid "Confirm delete"
+msgstr "Confirm delete"
+
+msgid "Constant"
+msgstr "Constant"
+
+msgid "Contains"
+msgstr "Contains"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Create"
+msgstr "Create"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "December"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete Confirmation"
+msgstr "Delete Confirmation"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Discard"
+msgstr "Discard"
+
+msgid "Discard Confirmation"
+msgstr "Discard Confirmation"
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Dutch"
+msgstr "Dutch"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "English"
+msgstr "English"
+
+msgid "Equals"
+msgstr "Equals"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error Notification"
+msgstr "Error Notification"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "February"
+
+msgid "Form invalid"
+msgstr "Form invalid"
+
+msgid "Formula"
+msgstr "Formula"
+
+msgid "Fr"
+msgstr "Fr"
+
+msgid "French"
+msgstr "French"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "General"
+msgstr "General"
+
+msgid "German"
+msgstr "German"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Greater than"
+msgstr "Greater than"
+
+msgid "Greater than or equals"
+msgstr "Greater than or equals"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Items selected:"
+msgstr "Items selected:"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "January"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "July"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "June"
+
+msgid "Less than"
+msgstr "Less than"
+
+msgid "Less than or equals"
+msgstr "Less than or equals"
+
+msgid "Libraries"
+msgstr "Libraries"
+
+msgid "Link suppliers"
+msgstr "Link suppliers"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "March"
+msgstr "March"
+
+msgid "May"
+msgstr "May"
+
+msgid "Mo"
+msgstr "Mo"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "New"
+msgstr "New"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "No records found"
+msgstr "No records found"
+
+msgid "Norm"
+msgstr "Norm"
+
+msgid "Norm Type"
+msgstr "Norm Type"
+
+msgid "Not Equals"
+msgstr "Not Equals"
+
+msgid "Not contains"
+msgstr "Not contains"
+
+#, fuzzy
+#| msgid "Not Equals"
+msgid "Not equals"
+msgstr "Not Equals"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "Number of items selected:"
+msgstr "Number of items selected:"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "October"
+msgstr "October"
+
+msgid "Oops, something went wrong"
+msgstr "Oops, something went wrong"
+
+msgid "Oops, something went wrong."
+msgstr "Oops, something went wrong."
+
+msgid "Open Sidepanel"
+msgstr "Open Sidepanel"
+
+msgid "Operation"
+msgstr "Operation"
+
+msgid "Operation Deleted"
+msgstr "Operation Deleted"
+
+msgid "Operations"
+msgstr "Operations"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Production"
+msgstr "Production"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove selection"
+msgstr "Remove selection"
+
+msgid "Remove supplier"
+msgstr "Remove suppliers"
+
+msgid "Resource"
+msgstr "Resource"
+
+msgid "Resource Categories"
+msgstr "Resources Categories"
+
+#, fuzzy
+#| msgid "Category"
+msgid "Resource Category"
+msgstr "Resource Category"
+
+msgid "Resource Deleted"
+msgstr "Resource Deleted"
+
+msgid "Resource Detail"
+msgstr "Resource Detail"
+
+msgid "Resources"
+msgstr "Resources"
+
+msgid "Resources auto width"
+msgstr "Resources auto width"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "Revert"
+msgstr "Revert"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save Confirmation"
+msgstr "Save Confirmation"
+
+msgid "Search..."
+msgstr "Search..."
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "September"
+
+msgid "Sorting"
+msgstr "Sorting"
+
+msgid "Starts with"
+msgstr "Starts with"
+
+msgid "Su"
+msgstr "Su"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+#, fuzzy
+#| msgid "Suppliers"
+msgid "Supplier Count"
+msgstr "Supplier Count"
+
+msgid "Suppliers"
+msgstr "Suppliers"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Th"
+msgstr "Th"
+
+msgid "The data you requested can not be loaded."
+msgstr "The data you requested can not be loaded."
+
+msgid "The value in this field can not be larger then {max}."
+msgstr "The value in this field can not be larger then {max}."
+
+msgid "The value in this field must be at least {min}."
+msgstr "The value in this field must be at least {min}."
+
+#, fuzzy
+#| msgid "There are one or more invalid fields on your form."
+msgid "There are one or more invalid fields in this composition."
+msgstr "There are one or more invalid fields on your form."
+
+msgid "There are one or more invalid fields on your form."
+msgstr "There are one or more invalid fields on your form."
+
+msgid "There is already a resource with this code in combination with the category."
+msgstr "There is already a resource with this code in combination with the category."
+
+msgid "There is no connection with the server."
+msgstr "There is no connection with the server."
+
+msgid "This combination is already in use"
+msgstr "This combination is already in use"
+
+msgid "This combination is already in use."
+msgstr "This combination is already in use."
+
+msgid "This field has a maximum of {requiredLength} characters."
+msgstr "This field has a maximum of {requiredLength} characters."
+
+msgid "This field is required."
+msgstr "This field is required."
+
+msgid "This operation is already deleted"
+msgstr "This operation is already deleted"
+
+msgid "This resource is already deleted"
+msgstr "This resource is already deleted"
+
+msgid "This {0} is already deleted"
+msgstr "This {0} is already deleted"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Today"
+msgstr "Today"
+
+msgid "Total Cost"
+msgstr "Total Cost"
+
+msgid "Total operations:"
+msgstr "Total operations:"
+
+msgid "Total resource categories:"
+msgstr "Total resource categories:"
+
+msgid "Total resources:"
+msgstr "Total resources:"
+
+msgid "Translations"
+msgstr "Translations"
+
+msgid "Tu"
+msgstr "Tu"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unable to continue, there are one or more invalid fields on your form."
+msgstr "Unable to continue, there are one or more invalid fields on your form."
+
+msgid "Undo"
+msgstr "Undo"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Unit Cost"
+msgstr "Unit Cost"
+
+msgid "Unit Cost Date"
+msgstr "Unit Cost Date"
+
+msgid "VAT Number"
+msgstr "VAT Number"
+
+msgid "View"
+msgstr "View"
+
+msgid "We"
+msgstr "We"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Yield"
+msgstr "Yield"
+
+msgid "You have unsaved changes."
+msgstr "You have unsaved changes."
+
+msgid "You have unsaved changes. Do you want to save or discard them?"
+msgstr "You have unsaved changes. Do you want to save or discard them?"
+
+msgid "Your data is invalid. Do you want to discard the changes or keep editing?"
+msgstr "Your data is invalid. Do you want to discard the changes or keep editing?"
+
+msgid "Your form is invalid. Do you want to discard the changes or keep editing?"
+msgstr "Your form is invalid. Do you want to discard the changes or keep editing?"
+
+msgid "and"
+msgstr "and"
+
+msgid "arrow-down"
+msgstr "arrow-down"
+
+msgid "arrow-left"
+msgstr "arrow-left"
+
+msgid "arrow-right"
+msgstr "arrow-right"
+
+msgid "arrow-up"
+msgstr "arrow-up"
+
+msgid "characters"
+msgstr "characters"
+
+msgid "ctrl"
+msgstr "ctrl"
+
+msgid "latest changes are not saved."
+msgstr "latest changes are not saved."
+
+msgid "no"
+msgstr "no"
+
+msgid "space"
+msgstr "space"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "{0} deleted"
+msgstr "{0} deleted"
+
+msgid "{{col.header}}"
+msgstr "{{col.header}}"
+
+#, fuzzy
+#~| msgid "Total resource categroies: "
+#~ msgid "Total resource categories: "
+#~ msgstr "Total resource categories: "
+
+#~ msgid "Total resource categroies: "
+#~ msgstr "Total resource categories: "
+
+#~ msgid "VatNumber"
+#~ msgstr "VatNumber"
+
+#, fuzzy
+#~| msgid "Category"
+#~ msgid "ResourceCategories"
+#~ msgstr "Category"
+
+#~ msgid "Yield-nl"
+#~ msgstr "Yield-nl"
+
+#~ msgid "Items selected: {{ resources.length }}"
+#~ msgstr "Items selected: {{ resources.length }}"
+
+#~ msgid "The value in this field can not be larger then"
+#~ msgstr "The value in this field can not be larger then"
+
+#~ msgid "The value in this field must be at least"
+#~ msgstr "The value in this field must be at least"
+
+#~ msgid "There is already a resource with this code"
+#~ msgstr "There is already a resource with this code"
+
+#~ msgid "This field has a maximum of"
+#~ msgstr "This field has a maximum of"
+
+#~ msgid "This field has a minimum of"
+#~ msgstr "This field has a minimum of"
+
+#~ msgid "Unit cost date"
+#~ msgstr "Unit cost date"
+
+#~ msgid "You have unsaved changes. "
+#~ msgstr "You have unsaved changes. "
