@@ -15,7 +15,7 @@
   "files.exclude": {
     "**/*.log": true,
     "**/*.log*": true,
-    "**/dist": true,
+    "**/dist": false,
     "**/coverage": true
   },
   "files.associations": {
@@ -101,7 +101,9 @@
   "javascript.format.enable": false,
   "json.format.enable": false,
   "vetur.validation.script": false,
-  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript", "typescriptreact"],
+  "eslint.validate": ["javascript", "javascriptreact", "vue", "typescript",
+    "typescriptreact"
+  ],
   "eslint.enable": true,
   // ===
   // TypeScript
