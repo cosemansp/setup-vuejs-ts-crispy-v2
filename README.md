@@ -14,19 +14,22 @@ yarn
 
 ## Features
 
-* [x] Full Typescript Support
-* [x] Formatting with Prettier
-* [x] Linting with TSlint and airbnb config
-* [x] Unit testing with Jest
-* [x] Add vscode-jest
-* [x] Add eslint with vuejs & typescript integration
-* [x] Add bootstrap
-* [x] Build sample app
-* [x] Upgrade to @vue/cli 3.0.0-beta.11 & webpack 4.x
-* [ ] Add more documentation
-* [ ] Add more unit test samples
-* [ ] Add nprogress
-* [ ] Add vue-meta
+- [x] Full Typescript Support
+- [x] Formatting with Prettier
+- [x] Linting with TSlint and airbnb config
+- [x] Unit testing with Jest
+- [x] Add vscode-jest
+- [x] Add eslint with vuejs & typescript integration
+- [x] Add bootstrap
+- [x] Build sample app
+- [x] Upgrade to @vue/cli 3.0.0-beta.16 & webpack 4.x
+- [x] Add Webpack Bundle Analysis
+- [x] Add vue-i18n
+- [x] Add i18n workflow (extract, translate, build)
+- [ ] Add more documentation
+- [ ] Add more unit test samples
+- [ ] Add nprogress
+- [ ] Add vue-meta
 
 ## VueJS support for VSCode
 
@@ -38,10 +41,10 @@ More usefull extensions can be found as recommended extensions.
 
 Linting checks the following:
 
-* Airbnb style guide (https://github.com/airbnb/javascript)
-* And typescript rules
-* And disable prettier rules
-* And style with stylelint
+- Airbnb style guide (https://github.com/airbnb/javascript)
+- And typescript rules
+- And disable prettier rules
+- And style with stylelint
 
 ```bash
 npm run lint
@@ -61,8 +64,8 @@ MIT
 
 ## References
 
-* [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
-* [complete-vuejs-application-tutorial/structure](https://matthiashager.com/complete-vuejs-application-tutorial/project-structure/)
-* [structuring-very-large-applications](https://forum.vuejs.org/t/structuring-very-large-applications/840/3)
-* [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
-* [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md)
+- [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+- [complete-vuejs-application-tutorial/structure](https://matthiashager.com/complete-vuejs-application-tutorial/project-structure/)
+- [structuring-very-large-applications](https://forum.vuejs.org/t/structuring-very-large-applications/840/3)
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate)
+- [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README.md)

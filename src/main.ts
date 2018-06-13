@@ -8,6 +8,7 @@ import store from './store';
 import config from './config';
 import { storage } from './core/storage';
 import './registerServiceWorker';
+import i18n from './i18n';
 
 // Styling
 import './styles/styles.css';
@@ -23,6 +24,7 @@ log.setDefaultLevel('debug');
 new Vue({
   router,
   store,
+  i18n,
   render: h => h(App),
   created() {
     log.info('Started');

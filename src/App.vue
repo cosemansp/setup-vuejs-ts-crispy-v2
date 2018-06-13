@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+  <h1>TEST</h1>
+  <p>{{ $t("message") }}</p>
     <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
