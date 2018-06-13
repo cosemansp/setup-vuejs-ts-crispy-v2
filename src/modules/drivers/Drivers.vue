@@ -13,7 +13,8 @@
       </tr>
     </thead>
     <tbody ui-sortable>
-      <tr v-for="(driver, index) of filteredDrivers" v-bind:key="driver.Driver.driverId">
+      <tr v-for="(driver, index) of filteredDrivers"
+          v-bind:key="driver.Driver.driverId">
         <td>{{index + 1}}</td>
         <td>
           <img :src="`/img/flags/${driver.Driver.nationality}.png`" />
@@ -30,7 +31,7 @@
 
 <script lang="ts">
 import { Component, Vue, Prop } from 'vue-property-decorator';
-import * as log from 'loglevel';
+import log from 'loglevel';
 
 import apiService from '../../services/apiService';
 
