@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
-    "build": "vue-cli-service build",
-    "build:prod": "cross-env ANALYZE=true yarn build",
+    "build": "vue-cli-service build --mode=development",
+    "build:prod": "cross-env ANALYZE=true vue-cli-service build",
     "test": "jest --verbose",
     "lint": "vue-cli-service lint && npm run stylelint",
     "stylelint": "stylelint --fix \"src/**/*.vue\" \"src/**/*.scss\"",
@@ -29,6 +29,7 @@
     "nprogress": "^0.2.0",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.13",
+    "vue-i18n": "^7.8.0",
     "vue-meta": "^1.5.0",
     "vue-property-decorator": "^6.0.0",
     "vue-router": "^3.0.1",
@@ -39,6 +40,8 @@
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
     "@types/jest": "^22.0.1",
     "@types/loglevel": "^1.5.3",
+    "@types/webpack": "^4.4.0",
+    "@types/webpack-env": "^1.13.6",
     "@vue/cli-plugin-babel": "^3.0.0-beta.16",
     "@vue/cli-plugin-eslint": "^3.0.0-beta.16",
     "@vue/cli-plugin-pwa": "^3.0.0-beta.16",
@@ -67,10 +70,12 @@
     "stylelint-config-standard": "^18.0.0",
     "stylelint-scss": "^3.0.0",
     "ts-jest": "^22.0.1",
+    "vue-cli-plugin-i18n": "^0.2.0",
     "vue-jest": "^2.3.0",
     "vue-server-renderer": "^2.5.16",
     "vue-storybook": "^0.3.0",
-    "vue-template-compiler": "^2.5.16"
+    "vue-template-compiler": "^2.5.16",
+    "webpack-bundle-analyzer": "^2.13.1"
   },
   "browserslist": ["> 1%", "last 2 versions", "not ie <= 10"]
 }
